@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PostmanRequests/APIClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PostmanRequests/AsyncAPIClient" vcs="Git" />
   </component>
 </project>
